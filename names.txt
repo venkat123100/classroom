@@ -1,0 +1,4 @@
+print("hi")
+print("I am Venkat")
+print("I am at Bangalore")
+print("I am doing internship at Toy stack")
